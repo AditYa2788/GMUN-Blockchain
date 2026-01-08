@@ -5,7 +5,7 @@ A Web 3.0-enabled healthcare platform that eliminates data silos, prevents count
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Nude.js 18+
+- Node.js 18+
 - MetaMask browser extension
 - IPFS (optional, for file storage)
 
